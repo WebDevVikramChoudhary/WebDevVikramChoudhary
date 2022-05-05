@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **MERN STACK**
 
-- 👨‍💻 All of my projects are available at My [portfolio](https://devvikram-a5281.web.app/){:target="_blank" rel="noopener"}
+- 👨‍💻 My projects are available at My [portfolio](https://devvikram-a5281.web.app/)
 
-- 📝 I regularly Post on [instagram](https://www.instagram.com/ninja_webtech/){:target="_blank" rel="noopener"} 
+- 📝 I regularly Post on [instagram](https://www.instagram.com/ninja_webtech/)
 
 - 💬 Ask me about **Next.js, React.js, JavaScript**
 
